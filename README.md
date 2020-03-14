@@ -13,8 +13,9 @@ Loyiha katalogidan ishga tushiring:
 ```
 https://github.com/zetgram/zetgram.git
 ```
-#### Composer orqali
+#### Composer orqali hop
 ```
 composer require zetgram/zetgram
+
 
 ```
